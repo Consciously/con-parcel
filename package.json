@@ -1,0 +1,30 @@
+{
+	"name": "con-parcel",
+	"version": "1.0.0",
+	"description": "con-parcel",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel index.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Consciously/con-parcel.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Consciously/con-parcel/issues"
+	},
+	"homepage": "https://github.com/Consciously/con-parcel#readme",
+	"dependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.19.1",
+		"@babel/preset-env": "^7.19.1",
+		"@babel/preset-react": "^7.18.6",
+		"parcel-bundler": "^1.12.5"
+	}
+}
